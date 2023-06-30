@@ -1,6 +1,6 @@
 ## first of all welcome to our world
 - the world in which we  care about data structures more than we care about you.
-![[Pasted image 20230629191830.png]]
+![image](https://media.makeameme.org/created/data-structure-data.jpg)
 
 ## target:
 - master data structures (know when to use what).
@@ -9,7 +9,7 @@
 
 ## style:
 
-![[Pasted image 20230629192138.png]]
+![image](https://corymiller.com/wp-content/uploads/2013/08/EatanElephantQuoteSM-300x300.jpg)
 
 ### **the style we will follow is to divide our target into weeks and each week into small easy steps.**
 
