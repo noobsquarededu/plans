@@ -1,4 +1,4 @@
-# topics
+
 1. complexity analysis.
 2. collections framework.
 3. hashing in PS.

@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2- DS/01  - DS what & why.md",
-                "mode": "preview",
+                "file": "2- DS/03 - dynamic array.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2- DS/01  - DS what & why.md",
+                "file": "2- DS/03 - dynamic array.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2- DS/01  - DS what & why.md",
+                "file": "2- DS/03 - dynamic array.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2- DS/01  - DS what & why.md"
+                "file": "2- DS/03 - dynamic array.md"
               }
             }
           }
@@ -148,15 +148,16 @@
   },
   "active": "19859373bde5dd44",
   "lastOpenFiles": [
+    "2- DS/02 - Time complexity analysis.md",
+    "2- DS/03 - dynamic array.md",
+    "1- problem_solving/topics.md",
+    "2- DS/01  - DS what & why.md",
     "2- DS/00 - intro.md",
     "Pasted image 20230629191830.png",
-    "2- DS/01  - DS what & why.md",
-    "2- DS/02 - dynamic arrays.md",
     "Pasted image 20230629192919.png",
     "Pasted image 20230629192138.png",
     "0- newcomers/0.0 - basic syntax.md",
     "2- DS",
-    "1- problem_solving/1.0 - easy.md",
     "1- problem_solving",
     "0- newcomers"
   ]
