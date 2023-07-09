@@ -94,19 +94,19 @@ array.shiftBySteps(4,17)
 
 helper resources:
 
-![](https://www.youtube.com/watch?v=ALs4QeZ495Y)
+[Arrays-1](https://www.youtube.com/watch?v=ALs4QeZ495Y)
 
-![](https://youtu.be/A_CQhz8xsQg)
+[Arrays-2](https://youtu.be/A_CQhz8xsQg)
 
-![](https://www.youtube.com/watch?v=wubHiW8Vhds&list=PLrW6ND2wzt4o4kYvTrk1xQjCLiIumqTL3&index=6)
+[Arrays-3](https://www.youtube.com/watch?v=wubHiW8Vhds&list=PLrW6ND2wzt4o4kYvTrk1xQjCLiIumqTL3&index=6)
 
-![](https://www.youtube.com/watch?v=fCwliBVEwrw&list=PLrW6ND2wzt4o4kYvTrk1xQjCLiIumqTL3&index=6)
-
-
-
-![](https://www.youtube.com/watch?v=5AllG-i_yto)
-
-![](https://www.youtube.com/watch?v=Ij7NQ-0mIVA)
+[References to Objects](https://www.youtube.com/watch?v=fCwliBVEwrw&list=PLrW6ND2wzt4o4kYvTrk1xQjCLiIumqTL3&index=6)
 
 
-![](https://www.youtube.com/watch?v=uBYUEcmESTw)
+
+[What if you had to invent a dynamic array?](https://www.youtube.com/watch?v=5AllG-i_yto)
+
+[What if you had to invent a dynamic array? - 2](https://www.youtube.com/watch?v=Ij7NQ-0mIVA)
+
+
+[implement dynamic array in java](https://www.youtube.com/watch?v=uBYUEcmESTw)
