@@ -51,15 +51,15 @@ C. Dynamic Memory Allocation
 ## practice:
 
 ### singly Linkedlist:
-https://leetcode.com/problems/design-linked-list/
-https://leetcode.com/problems/delete-node-in-a-linked-list/description/
-https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/
-https://leetcode.com/problems/reverse-linked-list/
-https://leetcode.com/problems/merge-two-sorted-lists/
-https://leetcode.com/problems/intersection-of-two-linked-lists/
-https://leetcode.com/problems/palindrome-linked-list/
-https://leetcode.com/problems/remove-linked-list-elements/
-https://leetcode.com/problems/linked-list-cycle/
-https://leetcode.com/problems/merge-nodes-in-between-zeros/
-https://leetcode.com/problems/swap-nodes-in-pairs/
-https://leetcode.com/problems/odd-even-linked-list/
+1. https://leetcode.com/problems/design-linked-list/
+2. https://leetcode.com/problems/delete-node-in-a-linked-list/description/
+3. https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/
+4. https://leetcode.com/problems/reverse-linked-list/
+5. https://leetcode.com/problems/merge-two-sorted-lists/
+6. https://leetcode.com/problems/intersection-of-two-linked-lists/
+7. https://leetcode.com/problems/palindrome-linked-list/
+8. https://leetcode.com/problems/remove-linked-list-elements/
+9. https://leetcode.com/problems/linked-list-cycle/
+10. https://leetcode.com/problems/merge-nodes-in-between-zeros/
+11. https://leetcode.com/problems/swap-nodes-in-pairs/
+12. https://leetcode.com/problems/odd-even-linked-list/
