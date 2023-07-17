@@ -44,8 +44,14 @@ A. Stacks and Queues
 B. Graphs  
 C. Dynamic Memory Allocation
 
+## resources:
+### singly Linkedlist:
+1. https://www.youtube.com/watch?v=epfRLOWfzWI
+2. https://www.youtube.com/watch?v=8H5IiJVm2Eg
+3. https://www.youtube.com/watch?v=IRwO_wahcsU&list=PL8FaHk7qbOD6punrpg2a3WNi3TueRAGS1&index=1
+4. https://www.youtube.com/playlist?list=PL8FaHk7qbOD4iIbJYDWuBjSiyxRAMYfnp
 
-
+**third & fourth resources is too important, watch and study them very carefully**
 
 
 ## practice:
