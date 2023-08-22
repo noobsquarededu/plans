@@ -53,6 +53,13 @@ C. Dynamic Memory Allocation
 
 **third & fourth resources is too important, watch and study them very carefully**
 
+### Doubley Linkedlist:
+1. https://www.youtube.com/watch?v=wfdpJELzln4&list=PLwCMLs3sjOY4UQq4vXgGPwGLVX1Y5faaS&index=18
+2. https://www.youtube.com/watch?v=2UcfbtvLFQ4
+3. https://www.geeksforgeeks.org/introduction-to-doubly-linked-lists-in-java/
+
+
+
 
 ## practice:
 
@@ -70,3 +77,7 @@ C. Dynamic Memory Allocation
 11. https://leetcode.com/problems/merge-nodes-in-between-zeros/
 12. https://leetcode.com/problems/swap-nodes-in-pairs/
 13. https://leetcode.com/problems/odd-even-linked-list/
+
+### d
+
+1. https://leetcode.com/problems/design-linked-list/description/ (solve this using doubley linkedlist with and without sentinal nodes)
