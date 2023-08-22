@@ -55,8 +55,9 @@ C. Dynamic Memory Allocation
 
 ### Doubley Linkedlist:
 1. https://www.youtube.com/watch?v=wfdpJELzln4&list=PLwCMLs3sjOY4UQq4vXgGPwGLVX1Y5faaS&index=18
-2. https://www.youtube.com/watch?v=2UcfbtvLFQ4
+2. https://www.youtube.com/watch?v=ILIjoAsF-zI&list=PLwCMLs3sjOY4UQq4vXgGPwGLVX1Y5faaS&index=19
 3. https://www.geeksforgeeks.org/introduction-to-doubly-linked-lists-in-java/
+4. https://www.youtube.com/watch?v=2UcfbtvLFQ4
 
 
 
